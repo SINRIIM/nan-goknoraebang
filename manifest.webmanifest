@@ -1,0 +1,8 @@
+{
+  "name": "난곡노래방",
+  "short_name": "난곡노래방",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d0818",
+  "theme_color": "#0d0818"
+}
